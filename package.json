@@ -1,0 +1,15 @@
+{
+  "name": "dt-contributors-generator",
+  "version": "0.0.0",
+  "description": "DefinitelyTyped CONTRIBUTORS.md generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vvakame",
+  "license": "ISC",
+  "dependencies": {
+    "definition-header": "^0.1.0",
+    "es6-promise": "^2.0.0"
+  }
+}
